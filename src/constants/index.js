@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.jpgy";
+import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpeg";
 
 export const HERO_CONTENT = `As a web developer, my objective is to create robust and visually appealing web solutions using both front-end and back-end technologies. With expertise in HTML5, CSS3, JavaScript, Node.js, MongoDB and Express, I also excel in WordPress, Figma, GSAP, and Framer Motion. My goal is to collaborate with designers and clients to deliver dynamic, user-friendly websites that align with business objectives.`;
