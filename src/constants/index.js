@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.jpg";
+import project3 from "../assets/projects/project-3.jpeg";
 import project4 from "../assets/projects/project-4.jpeg";
 
 export const HERO_CONTENT = `As a web developer, my objective is to create robust and visually appealing web solutions using both front-end and back-end technologies. With expertise in HTML5, CSS3, JavaScript, Node.js, MongoDB and Express, I also excel in WordPress, Figma, GSAP, and Framer Motion. My goal is to collaborate with designers and clients to deliver dynamic, user-friendly websites that align with business objectives.`;
@@ -18,14 +18,14 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "React.js", "Next.js", "MongoDB"],
   },
   {
-    year: "2024",
+    year: "05-2024",
     role: "Frontend Developer",
     company: "VeriTech Software IT Solutions",
     description: ` I had the opportunity to enhance my web development skills through various projects. I developed web applications using HTML, CSS, JavaScript, and React.js, focusing on creating dynamic single-page applications. This role allowed me to apply my knowledge of modern front-end and back-end technologies to build responsive, high-performance applications.`,
     technologies: ["HTML", "CSS", "Javascript", "React.js"],
   },
   {
-    year: "2023",
+    year: "08-2023",
     role: "Web Developer",
     company: "Oasis Infobyte",
     description: `I developed a range of web applications using JavaScript, React.js, and Node.js. My work ensured that the applications were responsive and high-performance, meeting the needs of clients and end-users. Additionally, I collaborated closely with designers and team members to deliver user-friendly interfaces that aligned with project objectives.`,
@@ -63,8 +63,8 @@ export const PROJECTS = [
     image: project3,
     description:
       "A responsive personal portfolio website designed to showcase projects, skills, and contact information. Featuring a clean, modern design with detailed project descriptions, skill summaries, and an easy-to-navigate layout, it provides a polished and professional presentation of individual achievements on any device.",
-    github: "",
-    live: "",
+    github: "https://github.com/AmaamRizvi/Crypto-Tracker",
+    live: "https://my-portfolio-blush-omega-66.vercel.app/",
     technologies: ["React.js", "TailwindCSS", "Javascript", "Framer Motion"],
   },
   {
