@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.jpeg";
 import project4 from "../assets/projects/project-4.jpeg";
 
-export const HERO_CONTENT = `As a web developer, my objective is to create robust and visually appealing web solutions using both front-end and back-end technologies. With expertise in HTML5, CSS3, JavaScript, Node.js, MongoDB and Express, I also excel in WordPress, Figma, GSAP, and Framer Motion. My goal is to collaborate with designers and clients to deliver dynamic, user-friendly websites that align with business objectives.`;
+export const HERO_CONTENT = `As a web developer, my objective is to create robust and visually appealing web solutions using both front-end and back-end technologies. With expertise in HTML5, CSS3, JavaScript, ReactJs, Node.js, MongoDB and Express, I also excel in WordPress, Figma, GSAP, and Framer Motion. My goal is to collaborate with designers and clients to deliver dynamic, user-friendly websites that align with business objectives.`;
 
 export const ABOUT_TEXT = `I am a web developer dedicated to creating robust and visually appealing web solutions. With expertise in both front-end and back-end technologies, including HTML5, CSS3, JavaScript, Node.js, MongoDB and Express, I deliver comprehensive and dynamic websites. Additionally, I excel in WordPress, Figma, GSAP, and Framer Motion, allowing me to craft engaging and user-friendly experiences. My goal is to collaborate closely with designers and clients to ensure every project aligns perfectly with business objectives and user needs.`;
 
