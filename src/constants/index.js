@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a web developer dedicated to creating robust and
 
 export const EXPERIENCES = [
   {
-    year: "2019 - Present",
+    year: "2022 - Present",
     role: "Team Leader",
     company: "Hitech Teleservices",
     description: `Supervised and mentored a team of 8 employees, providing strategic guidance and robust support to optimize
