@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     description: `Supervised and mentored a team of 8 employees, providing strategic guidance and robust support to optimize
                    operational efficiency and drive outstanding performance. Effectively collaborates with cross-functional teams, driving alignment and synergy to achieve departmental
                    goals while significantly enhancing overall company objectives`,
-    technologies: ["Javascript", "React.js", "Next.js", "MongoDB"],
+    technologies: ["Leadership", "Team Mangement", "Communicating"],
   },
   {
     year: "05-2024",
@@ -81,5 +81,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Hazratganj, Lucknow, Uttar Pradesh",
   phoneNo: "+91-8429519383",
-  email: "amaamrizvi@gmail.com",
+  email: "amaamrizvi6557@gmail.com",
 };
