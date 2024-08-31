@@ -25,7 +25,7 @@ export const EXPERIENCES = [
     technologies: ["HTML", "CSS", "Javascript", "React.js"],
   },
   {
-    year: "08-2023",
+    year: "11-2023",
     role: "Web Developer",
     company: "Oasis Infobyte",
     description: `I developed a range of web applications using JavaScript, React.js, and Node.js. My work ensured that the applications were responsive and high-performance, meeting the needs of clients and end-users. Additionally, I collaborated closely with designers and team members to deliver user-friendly interfaces that aligned with project objectives.`,
